@@ -1,9 +1,9 @@
 //
 //  UIImage+JTKGradient.m
-//  Idealist
+//  Jared King
 //
 //  Created by Jared on 2/15/13.
-//  Copyright (c) 2013 Idealist. All rights reserved.
+//  Copyright (c) 2013 Jared King. All rights reserved.
 //
 
 #import "UIImage+JTKGradient.h"
